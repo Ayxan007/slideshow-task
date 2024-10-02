@@ -1,0 +1,19 @@
+.img-box{
+    width: 1500px;
+    display: flex;
+    margin: 0 auto;
+    overflow-x: hidden;
+    .boxs{
+        width: 1000px; 
+        height: 500px;
+    }
+}
+button{
+    background-color: blue;
+    color: wheat;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid blue;
+    cursor: pointer;
+    border-radius: 2px;
+}
